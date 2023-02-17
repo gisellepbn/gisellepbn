@@ -4,7 +4,7 @@
 
 
 
-![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellepbn&show_icons=true&theme=radical&bg_color=00000000&include_all_commits=true&count_private=true)
+![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellepbn&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
 <br>
 
