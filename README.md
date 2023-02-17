@@ -30,28 +30,12 @@
 
 
 
-
 <br>
 
 
 &nbsp;
 
-<div align="left">
-<table>
-<tbody>
-<td align="center">
-<img width="600" height="0"><br>
 <sub>Web Applications in the Making</sub><br>
-<img width="600" height="0">
-</td>
-</tbody>
-</table>
-</div>
-
-
-
-
-
 
 
 
