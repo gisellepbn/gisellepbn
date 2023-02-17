@@ -33,7 +33,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gisellepbn&repo=gisellepbn&show_owner=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gisellepbn&repo=gisellepbn&show_owner=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
