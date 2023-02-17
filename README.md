@@ -20,7 +20,6 @@
 
 <img align="left" width="100" height="25" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=264de4">
 
-
 <img align="left" width="100" height="25" src="https://img.shields.io/badge/-SASS-c69?style=for-the-badge&labelColor=black&logo=sass&logoColor=c69">
 
 <img align="left" width="100" height="25" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=f7df1e">
@@ -37,13 +36,13 @@
 
 &nbsp;
 
-<div align="center">
+<div align="left">
 <table>
 <tbody>
 <td align="center">
-<img width="1000" height="0"><br>
+<img width="600" height="0"><br>
 <sub>Web Applications in the Making</sub><br>
-<img width="1000" height="0">
+<img width="600" height="0">
 </td>
 </tbody>
 </table>
