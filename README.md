@@ -41,9 +41,9 @@
 <table>
 <tbody>
 <td align="center">
-<img width="2000" height="0"><br>
+<img width="1000" height="0"><br>
 <sub>Web Applications in the Making</sub><br>
-<img width="2000" height="0">
+<img width="1000" height="0">
 </td>
 </tbody>
 </table>
