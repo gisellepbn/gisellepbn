@@ -1,6 +1,8 @@
 ### Hi there! I'm Giselle. 👋
 
-<br>
+<sub>Web Applications in the Making</sub><br>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellepbn&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
@@ -26,16 +28,10 @@
 
 <img align="left" width="100" height="25" src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B">
 
-<img align="left" width="100" height="25" src="https://img.shields.io/badge/-Django-4b982c?style=for-the-badge&labelColor=black&logo=django&logoColor=4b982c">  
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/-Django-4b982c?style=for-the-badge&labelColor=black&logo=django&logoColor=4b982c"><br>  
 
 
 
-<br>
-
-
-&nbsp;
-
-<sub>Web Applications in the Making</sub><br>
 
 
 
