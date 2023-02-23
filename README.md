@@ -8,7 +8,18 @@
 
 <br>
 
-🔭 I’m currently working on CS50's Web Programming with Python and JavaScript projects &nbsp; [![Generic badge](https://img.shields.io/badge/HarvardX-EdX-<COLOR>.svg)](https://shields.io/)
+🔭 I’m currently working on CS50's Web Programming with Python and JavaScript projects &nbsp; [![Generic badge](https://img.shields.io/badge/HarvardX-EdX-<COLOR>.svg)](https://shields.io/) <br>
+
+<!-- > No code is shared. Only final result to respect **Academic Honesty**
+
+* ✅ Project 0 - Search -> [Functional front-end implementation for Google Search, Google Image Search, and Google Advanced Search](https://youtu.be/ReNR0cJgaSc)
+* ✅ Project 1 - Wiki -> [Simple Wikipedia-like online encyclopedia - Django](https://youtu.be/EGFuODaIEDk)
+* ✅ Project 2 - Commerce -> [E-commerce auction site - Django](https://youtu.be/VYNJXQFPmpE)
+* ✅ Project 3 - Mail -> [Simple front-end for an email client that makes API calls to send and receive emails - HTML, CSS and JavaScript](https://youtu.be/Wam96lOlhWA)
+* ✅ Project 4 - Network -> [Social network website for making posts and following users - Django and JavaScript](https://youtu.be/cphQrHT-zdQ)
+* ▶️ Final Project - *Work in progress ...* -->
+
+<br>
 
 🌱 I’m currently learning ReactJS
 
