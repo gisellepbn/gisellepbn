@@ -8,7 +8,7 @@
 
 <br>
 
-🔭 I’m currently working on CS50's Web Programming with Python and JavaScript projects &nbsp; [![Generic badge](https://img.shields.io/badge/HarvardX-EdX-<COLOR>.svg)](https://shields.io/) <br>
+🔭 I’m currently working on CS50's Web Programming with Python and JavaScript - Final Project &nbsp; [![Generic badge](https://img.shields.io/badge/HarvardX-EdX-<COLOR>.svg)](https://shields.io/) <br>
 
 <!-- > No code is shared. Only final result to respect **Academic Honesty**
 
@@ -19,13 +19,11 @@
 * ✅ Project 4 - Network -> [Social network website for making posts and following users - Django and JavaScript](https://youtu.be/cphQrHT-zdQ)
 * ▶️ Final Project - *Work in progress ...* -->
 
-<br>
 
-🌱 I’m currently learning ReactJS
 
 <br>
 
-### What you'll find in my repositories &nbsp; (all private at the moment)
+### What you'll find in my repositories &nbsp; (all private at the moment 😊)
 
 <sub>Languages and frameworks</sub><br>
 
