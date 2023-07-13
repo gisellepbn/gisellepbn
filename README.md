@@ -1,10 +1,10 @@
-# Hi there! I'm Giselle. 👋
 
-## Web Applications in the Making!
-<br>
+# Web Applications in the Making!
+
+Hi there! I'm Giselle. 👋 <br>
 
 
-### Languages and Frameworks
+## Languages and Frameworks
 
 **Frontend**
 - HTML
