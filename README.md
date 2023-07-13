@@ -1,28 +1,30 @@
-## Hi there! I'm Giselle. 👋
+# Hi there! I'm Giselle. 👋
 
 ### Web Applications in the Making!
 <br>
 
-#### What you'll find in my repositories (most are private at the moment)
 
-Languages and frameworks
+#### Languages and Frameworks
+<br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+
+<br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+
 <br>
 
-HTML <img align="left" width="100" height="25" src="https://img.shields.io/badge/-Html5-e34c26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=e34c26"> <br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white">
+<br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
+<br>
 
-CSS <img align="left" width="100" height="25" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=264de4"> <br>
-
-Sass <img align="left" width="100" height="25" src="https://img.shields.io/badge/-SASS-c69?style=for-the-badge&labelColor=black&logo=sass&logoColor=c69"> <br>
-
-TailwindCSS <img align="left" width="100" height="25" src="https://img.shields.io/badge/-tailwindcss-03a9f4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=#03a9f4"> <br>
-
-JavaScript <img align="left" width="100" height="25" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=f7df1e"><br>
-
-ReactJS <img align="left" width="100" height="25" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"><br>
-
-Python <img align="left" width="100" height="25" src="https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B"><br>
-
-Django and Django Rest Framework <img align="left" width="100" height="25" src="https://img.shields.io/badge/-Django-4b982c?style=for-the-badge&labelColor=black&logo=django&logoColor=4b982c"><br>  
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+<br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+<br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+<br>
+<img align="left" width="100" height="25" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"><br>  
 
 
 
